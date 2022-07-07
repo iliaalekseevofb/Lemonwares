@@ -1,0 +1,9 @@
+export {default as Navbar} from "../containers/Navbar";
+export {default as Home} from "../containers/Home";
+export {default as Brands} from "../containers/Brands";
+export {default as Features} from "../containers/Features";
+export {default as Packages} from "../containers/Packages";
+export {default as Testimonials} from "../containers/Testimonials";
+export {default as Serve} from "../containers/Serve";
+export {default as Awesome} from "../containers/Awesome";
+export {default as Footer} from "../containers/Footer";
