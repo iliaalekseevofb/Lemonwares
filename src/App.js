@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Home, Brands, Features, Packages, Testimonials, Serve, Awesome} from './containers';
+import { Navbar, Home, Brands, Features, Packages, Testimonials, Serve, Awesome, Footer} from './containers';
 
 const App = () => {
   return (
@@ -16,6 +16,9 @@ const App = () => {
             <Serve />
             <Awesome />
         </main>
+        <footer>
+            <Footer />
+      </footer>
     </div>
   )
 }
